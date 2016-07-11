@@ -7,7 +7,7 @@
 -Charles
 -Lisa
 -John
--Stacy
+-Stacy-Stacy-Stacy
 -Alexander
 
 Marketing team
