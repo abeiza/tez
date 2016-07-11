@@ -2,6 +2,6 @@
 <html>
 <head></head>
 <!--<meta http-equiv="refresh" content="60">-->
-<body>
+<body class="container">
 </body>
 </html>
