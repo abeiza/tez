@@ -6,6 +6,15 @@
 	<div>Finance team
 -Charles
 -Lisa
--John</div>
+-John
+-Stacy
+-Alexander
+
+Marketing team
+- Collins
+- Linda
+- Patricia
+- Morgan
+- Amanda</div>
 </body>
 </html>
